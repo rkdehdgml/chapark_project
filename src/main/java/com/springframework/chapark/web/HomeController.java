@@ -1,4 +1,4 @@
-package com.springframework.chapark;
+package com.springframework.chapark.web;
 
 import java.text.DateFormat;
 import java.util.Date;
